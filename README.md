@@ -8,4 +8,6 @@ Estamos aprendiendo a trabajar con __GIT__ y para eso hemos creado este reposito
 
 ### Algunas de las ventajas de GIT son
 
-· prueba
+- Me permite controlar las versiones de mi código
+- Puedo trabajar en equipo con mis compañeros
+- Aprendo de otros desarrolladores consultando sus repositorios
