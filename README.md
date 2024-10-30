@@ -11,3 +11,19 @@ Estamos aprendiendo a trabajar con __GIT__ y para eso hemos creado este reposito
 - Me permite controlar las versiones de mi código
 - Puedo trabajar en equipo con mis compañeros
 - Aprendo de otros desarrolladores consultando sus repositorios
+
+### Flujo de trabajo de GIT
+
+Para añadir un fichero a nuestro repositorio remoto de [GitHub](https://github.com/wabung/ReadMe-Entornos) tenemos que seguir los siguientes pasos
+
+```
+git add fichero
+```
+
+```
+git commit -m "Comentario sobre el commit"
+```
+
+```
+git push
+```
